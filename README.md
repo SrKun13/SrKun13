@@ -1,32 +1,45 @@
-# Descripción personal 🙋‍♀️
+# Juegos de la consola
 
-¡Hola! Soy Gerard 👋 y me considero un ChatGPT enjoyer 💻. Me apasiona [tu interés principal] y disfruto aprendiendo cosas nuevas cada día 🤓.
+Este es un conjunto de juegos de la consola que puedes jugar en tu terminal. Los juegos incluidos son:
 
-## Experiencia laboral 💼
+- Adivinanza
+- Adivinanza de números
+- Batalla naval
+- Buscaminas
 
-- [Nombre de la empresa] (Fecha de inicio - Fecha de finalización): [Descripción del trabajo y logros]
+## Requisitos
 
-## Educación 🎓
+Para jugar estos juegos, debes tener Python 3 instalado en tu sistema. Si no lo tienes instalado, descárgalo desde el sitio web oficial de Python.
 
-- [Título universitario o diploma] de [Universidad o institución] (Año de graduación)
-- [Título universitario o diploma] de [Universidad o institución] (Año de graduación)
+## Instalación
 
-## Habilidades 🤹‍♀️
+1. Clona este repositorio: `git clone https://github.com/tu_usuario/juegos-de-la-consola.git`
+2. Navega a la carpeta del repositorio: `cd juegos-de-la-consola`
+3. Ejecuta el archivo `main.py`: `python main.py`
 
-- [Habilidad 1] 💪
-- [Habilidad 2] 🚀
-- [Habilidad 3] 🎯
-- [Habilidad 4] 🌟
-- [Habilidad 5] 🎉
+## Uso
 
-## Intereses 🌍
+1. Selecciona el juego que deseas jugar en el menú principal.
+2. Sigue las instrucciones en pantalla para jugar el juego.
+3. ¡Diviértete!
 
-- [Interés 1] 📚
-- [Interés 2] 🎧
-- [Interés 3] 🎨
-- [Interés 4] 🍳
-- [Interés 5] 🚴‍♀️
+## Contribución
 
-## Contacto 📧
+Si deseas contribuir a este proyecto, ¡eres bienvenido! Sigue estos pasos:
 
-Puedes contactarme a través de [tu correo electrónico] 📩 o visitar mi sitio web [tu sitio web o perfil en redes sociales] 🌐.
+1. Haz un fork de este repositorio.
+2. Clona tu fork en tu máquina local: `git clone https://github.com/tu_usuario/juegos-de-la-consola.git`
+3. Crea una rama nueva: `git checkout -b mi_rama`
+4. Haz tus cambios y realiza tus pruebas.
+5. Haz commit de tus cambios: `git commit -am 'Agregar nuevas funciones'`
+6. Sube tus cambios: `git push origin mi_rama`
+7. Crea una solicitud de extracción en GitHub.
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para más información.
+
+---
+
+¡Gracias por jugar nuestros juegos! Si tienes algún problema o sugerencia, no dudes en informarnos en [nuestro sitio web](https://juegos-de-la-consola.com).
+
