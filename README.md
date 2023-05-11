@@ -41,6 +41,6 @@
 
 ## Contacto 📧
 
-Puedes contactarme a través de gerard.seda2014@gmail 📩 o visitar mi sitio web www.noteweb.com 🌐.
+Puedes contactarme a través de gerard.seda2014@gmail 📩 o visitar mi sitio web www.notengoweb.com 🌐.
 
 
