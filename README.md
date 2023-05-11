@@ -34,6 +34,6 @@ Puedes contactarme a través de gerard.seda2014@gmail 📩 o visitar mi sitio we
 
 ## BRUM BRUM
 
-(./WhatsApp Image 2022-11-19 at 01.47.29 (1).jpeg)
+!(./WhatsApp Image 2022-11-19 at 01.47.29 (1).jpeg)
 
 
