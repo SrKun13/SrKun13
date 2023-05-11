@@ -1,6 +1,6 @@
 # Descripción personal 🙋‍♀️
 
-¡Hola! Soy [tu nombre] 👋 y me considero un/a [tu profesión o área de interés] 💻. Me apasiona [tu interés principal] y disfruto aprendiendo cosas nuevas cada día 🤓.
+¡Hola! Soy Gerard 👋 y me considero un ChatGPT enjoyer 💻. Me apasiona [tu interés principal] y disfruto aprendiendo cosas nuevas cada día 🤓.
 
 ## Experiencia laboral 💼
 
