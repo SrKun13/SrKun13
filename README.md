@@ -32,6 +32,8 @@
 
 Puedes contactarme a través de gerard.seda2014@gmail 📩 o visitar mi sitio web [tu sitio web o perfil en redes sociales] 🌐.
 
-![Logo de mi proyecto](./logo.png)
+## BRUM BRUM
+
+(./WhatsApp Image 2022-11-19 at 01.47.29 (1).jpeg)
 
 
