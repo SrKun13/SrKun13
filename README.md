@@ -28,14 +28,15 @@
 - Cocinar 🍳
 - Bici de montaña 🚴‍♀️
 
-## Contacto 📧
 
-Puedes contactarme a través de gerard.seda2014@gmail 📩 o visitar mi sitio web [tu sitio web o perfil en redes sociales] 🌐.
 
 ## BRUM BRUM
+- Mi coche es el de la derecha 🤓.
 
 ![Texto alternativo](https://github.com/SrKun13/SrKun13/blob/d291b71fa39d1b71dd0d7abf61c3b12e05651178/WhatsApp%20Image%202022-11-19%20at%2001.47.29%20(1).jpeg)
 
+## Contacto 📧
 
+Puedes contactarme a través de gerard.seda2014@gmail 📩 o visitar mi sitio web [tu sitio web o perfil en redes sociales] 🌐.
 
 
