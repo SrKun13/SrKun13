@@ -34,7 +34,7 @@ Puedes contactarme a través de gerard.seda2014@gmail 📩 o visitar mi sitio we
 
 ## BRUM BRUM
 
-![Texto alternativo]([ruta/de/la/imagen](https://github.com/SrKun13/SrKun13/blob/d291b71fa39d1b71dd0d7abf61c3b12e05651178/WhatsApp%20Image%202022-11-19%20at%2001.47.29%20(1).jpeg))
+![Texto alternativo](https://github.com/SrKun13/SrKun13/blob/d291b71fa39d1b71dd0d7abf61c3b12e05651178/WhatsApp%20Image%202022-11-19%20at%2001.47.29%20(1).jpeg)
 
 
 
