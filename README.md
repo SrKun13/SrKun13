@@ -20,6 +20,7 @@
 - Razzmataz 🎉
 
 ## Intereses 🌍
+- Mondongo 🟠
 - Derrapar 🚗
 - Estudiar 📚
 - Escuchar musica 🎧
